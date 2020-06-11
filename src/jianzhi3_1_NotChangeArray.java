@@ -36,7 +36,7 @@ public class jianzhi3_1_NotChangeArray {
                 for (int x : nums) {
                     if (x>= l && x<= mid) s+=1;
                 }
-                if (s > (mid -l+1)) {
+                if (s > (mid -l + 1)) {
                     r = mid;
                 }else {
                     l = mid+1;

@@ -1,5 +1,10 @@
 public class jianzhi11_revoleArrayMinNum {
     class Solution {
+        /**
+         * 旋转数组中最小的数
+         * @param numbers
+         * @return
+         */
         public int minArray(int[] numbers) {
             // 确定输入有效
             int n = numbers.length - 1;
