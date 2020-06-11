@@ -47,6 +47,5 @@ public class jianzhi3_DuplicateArray {
         int []  nums = {2, 3, 5, 4, 3, 2, 6, 7};
         solution.setNums(nums);
         System.out.println(solution.duplicateInArray());
-
     }
 }
