@@ -1,5 +1,5 @@
 public class jianzhi11_revoleArrayMinNum {
-    class Solution {
+    static class Solution {
         /**
          * 旋转数组中最小的数
          * @param numbers
@@ -25,6 +25,8 @@ public class jianzhi11_revoleArrayMinNum {
     }
 
     public static void main(String[] args) {
+
+        Solution solution = new Solution();
         System.out.println(5<<1);
     }
 }

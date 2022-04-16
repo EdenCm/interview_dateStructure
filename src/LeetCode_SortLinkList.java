@@ -90,6 +90,4 @@ public class LeetCode_SortLinkList {
         }
 
     }
-
-
 }
